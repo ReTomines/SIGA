@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<base orgaoUsuario="CM">
+   <cargos>
+      <cargo nome="ANALISTA JUDICIARIO" id="240001" />
+   </cargos>
+   <funcoes>
+      <funcao nome="ASSISTENTE I" id="3" />
+   </funcoes>
+   <lotacoes>
+      <lotacao nome="DESENVOLVIMENTO" id="8631" idPai="8630" sigla="DESENV" />
+      <lotacao nome="SECRETARIA DE INFORMÁtICA" id="8630" idPai="" sigla="INFO" />
+   </lotacoes>
+   <pessoas>
+      <pessoa nome="RENATA RODRIGUES" id="148238" funcaoConfianca="" email="usuário.tst@orgao.br" lotacao="8631" situacao="1" 
+         cargo="240001" matricula="32017" grauInstrucao="" tipoSanguineo="A+" naturalidade="SC" nacionalidade="BRASILEIRA" 
+         dtNascimento="17091976" sexo="F" cpf="55555555555" rua="" bairro="" cidade="" uf="" cep="" dtInicioExercicio="" 
+         rgUf="" rgDtExp="02072008" estCivil="" sigla="AHP" tipo="" />
+   </pessoas>
+</base>
